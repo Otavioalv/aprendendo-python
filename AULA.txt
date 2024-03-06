@@ -1,0 +1,54 @@
+set up vs code X
+	pluguiujn e configurações X	
+
+git 
+	add
+	commit 
+	push
+	
+
+
+gihub 
+	logar e aprender
+
+python ver oq sabem sobre
+	instalar python
+	aprender oq e biblioteca
+	oq e framework 
+	ambiente virtual venv 
+	saber oq e o venv 		
+		python -m venv <nome do ambviente> // geralmente o nome e my-venv
+	iniciar o venv 
+		nome do ambiente\scripts\activate
+	instalar o flask 
+		pip install Flask
+	aprender oq e o arquivo requirements.txt
+		pip freeze > requirements.txt
+	aprender a colocar as dependencias no arquivo requirements.txt
+	intalar dependencias atraves do arquivo requirements.txt
+		pip install -r requirements.txt
+
+postman
+	instalar
+	testar a api com postman
+
+flask aprender	
+	metodos http
+		get solicita dados, 
+		post Submete dados para serem processados para um recurso especificado., 
+		delete deleta...,
+		put  Substitui todos os atuais,
+		patch	Aplica modificações parciais a um recurso.
+	end-point 
+	pegar dados pelo end point 	
+		/<dado>
+		na funcao (dado)
+	pegar dados atraves de json/xml etc
+		request.get_json();
+	enviar dados por json/xml etc
+	codigo de status http basico
+		200 - success/ok
+		404 - erro
+		500 - erro interno serviv cdor
+		400 - ma requisição 
+
