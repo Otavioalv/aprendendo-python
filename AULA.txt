@@ -1,32 +1,32 @@
 set up vs code X
 	pluguiujn e configurações X	
 
-git 
-	add
-	commit 
-	push
+git X
+	add X
+	commit X
+	push X
 	
 
 
-gihub 
-	logar e aprender
+gihub X
+	logar e aprender X
 
-python ver oq sabem sobre
-	instalar python
-	aprender oq e biblioteca
-	oq e framework 
-	ambiente virtual venv 
-	saber oq e o venv 		
-		python -m venv <nome do ambviente> // geralmente o nome e my-venv
-	iniciar o venv 
-		nome do ambiente\scripts\activate
-	instalar o flask 
-		pip install Flask
-	aprender oq e o arquivo requirements.txt
-		pip freeze > requirements.txt
-	aprender a colocar as dependencias no arquivo requirements.txt
-	intalar dependencias atraves do arquivo requirements.txt
-		pip install -r requirements.txt
+python ver oq sabem sobre X
+	instalar python X
+	aprender oq e biblioteca X
+	oq e framework  X
+	ambiente virtual venv X
+	saber oq e o venv X	 	
+		python -m venv <nome do ambviente> // geralmente o nome e my-venvX
+	iniciar o venv X
+		nome do ambiente\scripts\activate X
+	instalar o flask  X
+		pip install Flask X  
+	aprender oq e o arquivo requirements.txt X
+		pip freeze > requirements.txt x
+	aprender a colocar as dependencias no arquivo requirements.txt X
+	intalar dependencias atraves do arquivo requirements.txt 
+ 		pip install -r requirements.txt
 
 postman
 	instalar
