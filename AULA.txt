@@ -30,7 +30,7 @@ python ver oq sabem sobre X
 
 postman X
 	instalar X
-	testar a api com postman
+	testar a api com postman X
 
 flask aprender	
 	Pouco de orientação a objetos X
@@ -41,9 +41,9 @@ flask aprender
 		put  Substitui todos os atuais,
 		patch	Aplica modificações parciais a um recurso.
 	end-point X
-	pegar dados pelo end point 	
-		/<dado>
-		na funcao (dado)
+	pegar dados pelo end point X 	
+		/<dado> X
+		na funcao (dado) X
 	pegar dados atraves de json/xml etc
 		request.get_json();
 	enviar dados por json/xml etc
