@@ -1,0 +1,23 @@
+MAIS USADOS
+
+GET: Utilizado para solicitar dados de um recurso específico no servidor. É uma requisição segura, ou seja, não deve alterar o estado do servidor ou dos dados.
+
+POST: Utilizado para enviar dados para o servidor para serem processados. Geralmente usado para criar um novo recurso no servidor, como enviar um formulário online.
+
+PUT: Utilizado para atualizar dados de um recurso existente no servidor. O corpo da requisição contém os novos dados que substituirão os existentes.
+
+DELETE: Utilizado para remover um recurso específico no servidor.
+
+PATCH: Similar ao PUT, porém usado para fazer atualizações parciais em um recurso, ou seja, apenas parte dos dados do recurso é alterada.
+
+
+
+MENOS COMUNS/USADOS
+
+HEAD: Similar ao GET, mas usado para obter apenas os cabeçalhos de resposta HTTP, sem o corpo da resposta. É útil para verificar a existência de um recurso ou seu estado sem baixar todo o conteúdo.
+
+OPTIONS: Utilizado para obter informações sobre os métodos HTTP suportados pelo servidor para um recurso específico. Isso é útil para clientes determinarem quais operações são permitidas em um determinado recurso.
+
+TRACE: Utilizado principalmente para fins de diagnóstico e depuração. Quando um servidor recebe uma solicitação TRACE, ele responde com uma mensagem contendo todas as informações que recebeu na solicitação. Isso pode ser útil para entender como intermediários estão manipulando as solicitações.
+
+CONNECT: Utilizado para solicitar uma conexão com um servidor proxy, que pode então ser usada para estabelecer uma conexão SSL/TLS de ponta a ponta.

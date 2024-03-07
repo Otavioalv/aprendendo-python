@@ -1,0 +1,27 @@
+
+Os códigos de status HTTP são parte fundamental do protocolo HTTP (Hypertext Transfer Protocol) 
+e são usados para fornecer informações sobre o resultado de uma requisição feita a um servidor
+ web. Cada código de status indica uma categoria geral de resposta e fornece detalhes sobre o 
+ estado específico da requisição
+
+
+
+1xx - Informacional: Estes códigos são apenas informativos e não indicam sucesso ou falha da requisição. 
+Por exemplo, 100 (Continue) indica que o servidor recebeu a parte inicial da requisição e está 
+aguardando o restante.
+
+2xx - Sucesso: Estes códigos indicam que a requisição foi recebida, compreendida e aceita pelo servidor. 
+Por exemplo, 200 (OK) indica que a requisição foi bem-sucedida.
+
+3xx - Redirecionamento: Estes códigos indicam que o cliente precisa tomar alguma ação adicional para 
+completar a requisição. Por exemplo, 301 (Moved Permanently) indica que o recurso foi movido 
+permanentemente para uma nova localização.
+
+4xx - Erro do Cliente: Estes códigos indicam que houve um erro por parte do cliente na requisição. 
+Por exemplo, 404 (Not Found) indica que o recurso solicitado não foi encontrado no servidor.
+
+5xx - Erro do Servidor: Estes códigos indicam que houve um erro por parte do servidor ao processar 
+a requisição. Por exemplo, 500 (Internal Server Error) indica um erro interno no servidor que impediu 
+o processamento da requisição.
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
