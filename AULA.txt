@@ -44,8 +44,8 @@ flask aprender
 	pegar dados pelo end point X 	
 		/<dado> X
 		na funcao (dado) X
-	pegar dados atraves de json/xml etc
-		request.get_json();
+	pegar dados atraves de json/xml etc X
+		request.get_json(); 
 	enviar dados por json/xml etc
 	codigo de status http basico
 		200 - success/ok
